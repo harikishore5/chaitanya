@@ -1,0 +1,2 @@
+a='hari'
+print(a)
